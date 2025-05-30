@@ -37,13 +37,6 @@ A modern Pinterest-like application built with React, featuring a responsive des
 - Styled-components for styling
 - Axios for API requests
 
-### Backend
-- Node.js with Express
-- MongoDB for database
-- JWT for authentication
-- AWS S3 for image storage
-- RESTful API architecture
-
 ### Project Structure
 ```
 pinterest/
@@ -55,13 +48,6 @@ pinterest/
 │       ├── redux/        # State management
 │       ├── services/     # API services
 │       └── utils/        # Utility functions
-│
-├── server/                # Backend Node.js application
-│   ├── config/           # Configuration files
-│   ├── controllers/      # Route controllers
-│   ├── models/          # Database models
-│   ├── routes/          # API routes
-│   └── middleware/      # Custom middleware
 │
 └── README.md
 ```
@@ -76,26 +62,14 @@ pinterest/
   - Axios
   - Material-UI
 
-- **Backend**
-  - Node.js
-  - Express.js
-  - MongoDB
-  - JWT
-  - AWS S3
-  - Mongoose
 
 - **Development Tools**
   - Git
   - VS Code
-  - Postman
-  - MongoDB Compass
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js (v14 or higher)
-- MongoDB
-- AWS Account (for S3)
 - Git
 
 ### Installation
@@ -117,25 +91,8 @@ cd ../client
 npm install
 ```
 
-3. Environment Setup
-```bash
-# Server (.env)
-PORT=5000
-MONGODB_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-AWS_ACCESS_KEY=your_aws_access_key
-AWS_SECRET_KEY=your_aws_secret_key
-AWS_BUCKET_NAME=your_bucket_name
-
-# Client (.env)
-REACT_APP_API_URL=http://localhost:5000
 ```
 
-4. Start the application
-```bash
-# Start server
-cd server
-npm run dev
 
 # Start client
 cd ../client

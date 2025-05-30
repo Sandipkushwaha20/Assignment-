@@ -142,26 +142,6 @@ cd ../client
 npm start
 ```
 
-## 📝 API Documentation
-
-### Authentication Endpoints
-- POST /api/auth/register - Register new user
-- POST /api/auth/login - User login
-- GET /api/auth/profile - Get user profile
-
-### Pin Endpoints
-- GET /api/pins - Get all pins
-- POST /api/pins - Create new pin
-- GET /api/pins/:id - Get pin by ID
-- PUT /api/pins/:id - Update pin
-- DELETE /api/pins/:id - Delete pin
-
-### Board Endpoints
-- GET /api/boards - Get user boards
-- POST /api/boards - Create new board
-- GET /api/boards/:id - Get board by ID
-- PUT /api/boards/:id - Update board
-- DELETE /api/boards/:id - Delete board
 
 ## 🤝 Contributing
 
@@ -177,7 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Manjeet Singh
 
 ## 🙏 Acknowledgments
 

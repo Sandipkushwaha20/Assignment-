@@ -35,7 +35,6 @@ A modern Pinterest-like application built with React, featuring a responsive des
 - Redux for state management
 - React Router for navigation
 - Styled-components for styling
-- Axios for API requests
 
 ### Project Structure
 ```
@@ -59,8 +58,6 @@ pinterest/
   - Redux
   - React Router
   - Styled-components
-  - Axios
-  - Material-UI
 
 
 - **Development Tools**

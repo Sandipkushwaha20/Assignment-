@@ -79,9 +79,6 @@ cd pinterest
 
 2. Install dependencies
 ```bash
-# Install server dependencies
-cd server
-npm install
 
 # Install client dependencies
 cd ../client

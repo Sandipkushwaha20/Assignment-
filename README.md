@@ -1,4 +1,4 @@
-# PinspireClone
+# Pinspire 
 
 A modern Pinterest-like application built with React, featuring a responsive design and interactive user interface.
 
@@ -46,7 +46,7 @@ A modern Pinterest-like application built with React, featuring a responsive des
 
 ### Project Structure
 ```
-pinterest-clone/
+pinterest/
 ├── client/                 # Frontend React application
 │   ├── public/            # Static files
 │   └── src/
@@ -102,8 +102,8 @@ pinterest-clone/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/pinterest-clone.git
-cd pinterest-clone
+git clone https://github.com/yourusername/pinterest.git
+cd pinterest
 ```
 
 2. Install dependencies

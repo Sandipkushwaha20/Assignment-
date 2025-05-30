@@ -10,7 +10,7 @@ const Profile = () => {
     {
       id: 1,
       title: 'My First Pin',
-      description: 'This is my first pin on Pinterest clone',
+      description: 'This is my first pin on Pinspireclone',
       imageUrl: 'https://via.placeholder.com/300',
       createdAt: new Date().toISOString(),
       userId: currentUser.id

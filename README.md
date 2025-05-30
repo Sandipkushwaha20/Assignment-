@@ -1,4 +1,4 @@
-# Pinterest Clone
+# PinspireClone
 
 A modern Pinterest-like application built with React, featuring a responsive design and interactive user interface.
 
@@ -181,5 +181,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Pinterest for inspiration
+- Pinspirefor inspiration
 - All contributors who have helped shape this project
